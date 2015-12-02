@@ -1,0 +1,55 @@
+/*div{
+	outline: red solid 1px;
+}*/
+.header{
+	color: white;
+}
+.header a{
+	color: white !important;
+}
+.launch{
+	height: 200px;
+	width: 500px;
+}
+.container{
+	padding: 0;
+}
+.jumbotron{
+	background: url(../img/background/hero.jpg);
+}
+.encabezado p{
+	display: inline-block;
+	padding: 10px;
+}
+.icon, .icon2{
+	margin-top: 20px;
+}
+.more{
+	background-color: #f4f4f4;
+	padding: 50px 0 50px 0;
+	margin: 80px 0 50px 0;
+}
+.more img, {
+	max-width: 80%;
+}
+.media{
+	margin-top: 60px;
+}
+.center{
+	margin: 0 200px 0 200px;
+}
+.call{
+    background: url(../img/background/city.jpg);
+    background-size: 100%;
+    padding-bottom: 500px;
+    color: white;
+}
+.testimonio img{
+	height: 80px;
+	width: 80px;
+}
+#contacto{
+	background: url(../img/background/contactus.jpg);
+	background-size: 100%;
+	color: white;
+}
